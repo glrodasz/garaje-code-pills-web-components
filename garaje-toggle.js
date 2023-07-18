@@ -5,7 +5,6 @@ class GarajeToggle extends HTMLElement {
 
     // Default props
     this.checked = false;
-    this.label = "";
   }
 
   static get styles() {
