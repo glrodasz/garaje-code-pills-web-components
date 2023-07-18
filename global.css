@@ -1,0 +1,10 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	display: grid;
+	place-content: center;
+	gap: 20px;
+}
